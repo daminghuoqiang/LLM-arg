@@ -1,6 +1,6 @@
-# 论文总结：Context Engineering 2.0 - 方法论与图表详解
-
-本论文《Context Engineering 2.0: The Context of Context Engineering》本质上是一篇理论构建与综述性论文。它提出了一个系统的概念框架，用于指导如何构建具备语境感知能力的AI系统，而非传统的单一算法实验。
+# 论文总结：Context Engineering 2.0
+**论文链接**: [https://arxiv.org/abs/2510.26493](https://arxiv.org/abs/2510.26493#:~:text=In%20this%20paper%2C%20we%20situate%20context%20engineering%2C%20provide,landscape%2C%20and%20examine%20key%20design%20considerations%20for%20practice.)
+它提出了一个系统的概念框架，用于指导如何构建具备语境感知能力的AI系统，而非传统的单一算法实验。
 
 ## 第一部分：核心方法论框架 (The Context Engineering Framework)
 
